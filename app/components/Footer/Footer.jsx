@@ -1,9 +1,9 @@
 "use client";
 import { Typography } from "@material-tailwind/react";
 
-export default function Footer() {
+export default function Footer({ id }) {
   return (
-    <div className="flex max-w-7xl m-auto justify-between mt-40 mb-10">
+    <div id={id} className="flex max-w-7xl m-auto justify-between mt-40 mb-10">
       <div className="flex flex-col border-black border-t-2 border-b-2">
         <div className="h-4 border-black border-l-2 border-r-2"></div>
         <div className="flex flex-row gap-20 justify-between items-start">

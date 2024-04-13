@@ -2,9 +2,12 @@
 import { Typography } from "@material-tailwind/react";
 import Image from "next/image";
 
-export default function HowItWorks() {
+export default function HowItWorks({ id }) {
   return (
-    <div className="flex flex-col max-w-7xl border-black m-auto mt-20 border-t-2 border-r-2">
+    <div
+      id={id}
+      className="flex flex-col max-w-7xl border-black m-auto mt-20 border-t-2 border-r-2"
+    >
       <div className="h-[55px] border-l-2 border-black"></div>
       <Typography className="text-8xl p-10">Как это работает?</Typography>
       <div className="flex flex-row m-auto mt-10 justify-between py-10">

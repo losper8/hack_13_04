@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <>
       <FirstPage />
-      <HowItWorks />s
-      <SecondPage />
-      <Footer />
+      <HowItWorks id="howItWorks" />
+      <SecondPage id="classify" />
+      <Footer id="footer" />
     </>
   );
 }

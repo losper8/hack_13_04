@@ -4,6 +4,16 @@ import { Button, Chip, Input, Typography } from "@material-tailwind/react";
 import Image from "next/image";
 
 export default function Body() {
+  const scrollToSection = (targetId) => {
+    const targetElement = document.getElementById(targetId);
+    if (targetElement) {
+      window.scrollTo({
+        top: targetElement.offsetTop,
+        behavior: "smooth",
+      });
+    }
+  };
+
   return (
     <div className="flex items-center  max-w-7xl bg-[url('/backgrounds/main.svg')]  bg-no-repeat m-auto h-[701px] ">
       <div className={`max-w-6xl mx-auto flex-col items-center`}>
@@ -25,6 +35,7 @@ export default function Body() {
 
         <Button
           color="purple"
+          onClick={() => scrollToSection("classify")}
           variant="gradient"
           className=" rounded-full text-2xl font-medium items-center w-[48rem]  m-auto p-auto block"
         >
