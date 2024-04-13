@@ -1,0 +1,23 @@
+services:
+  chromadb:
+    image: chromadb/chroma
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/chroma-data:/chroma/chroma
+
+  embeddings-app:
+    build:
+      context: .
+      dockerfile: src/embeddings/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - config/external_api.env
+      - config/chroma_db.env
+    depends_on:
+      - chromadb
+    ports:
+      - "8084:8084"
+    volumes:
+      - ./src/embeddings/:/opt/app-root/src/embeddings:rw
