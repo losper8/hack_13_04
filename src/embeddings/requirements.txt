@@ -9,3 +9,5 @@ asyncpg
 langchain-community
 langchain-text-splitters
 tiktoken
+clean-text
+unidecode
