@@ -1,0 +1,153 @@
+порядке оформления
+международной товарно-транспортной
+накладной CMR
+
+Форма
+
+1	Отправитель (наименование, адрес, страна)
+Absender (Name, Anschrift, Land)	Международная товарно-транспортная накладная
+Internationaler Frachtbrief	
+Филиал ПАО "Окский автомобилестроительный завод"		CMR
+129110, г. Москва, ул. Промышленная, 7		
+Россия	Данная перевозка, несмотря
+ни на какие прочие договоры, 
+осуществляется в соответствии
+с условиями Конвенции о договоре международной дорожной перевозки
+грузов (КДПГ)	Diese Beförderung unterliegt trotz
+einer gegenteiligen Abmachung den
+Beatimmungen des Übereinkommens
+über den Beförderungsvertrag im
+internat. Straßengüterverkehr (CMR)
+		
+		
+2	Получатель (наименование, адрес, страна)
+Empfänger (Name, Anschrift, Land)	16	Перевозчик (наименование, адрес, страна)
+Frachtführer (Name, Anschrift, Land)
+ООО "РОМАШКА"	
+220131, г. Минск, ул. Абрикосовая, 9	
+Беларусь	
+	
+	
+3	Место разгрузки груза
+Auslieferungsort des Gutes	17	Последующий перевозчик (наименование, адрес, страна)
+Nachfolgende Frachtführer (Name, Anschrift, Land)
+Место / Ort	г. Фаниполь	
+Страна / Land	Беларусь	
+		
+4	Место и дата погрузки груза
+Ort und Tag der Ubernahme des Gutes	
+Место / Ort	г. Москва, Домодедово-14	
+Страна / Land	Россия	18	Оговорки и замечания перевозчика
+Vorbehalte und Bemerkungeh der Frachtführer
+Дата / Datum	12.02.2024	
+5	Прилагаемые документы
+Beigefügte Dokumente	
+ТТН N VX2340923 от 12.02.2024	
+Счет-фактура N 23 от 12.02.2024
+
+Договор на поставку N 12-Бел от 27.12.2023	
+6
+Знаки и номера
+Kennzeichen und Nummern	7	Количество мест
+Anzahl der Packstücke	8	Род упаковки
+Art der Verpackung	9	Наименование груза
+Bezeichnung des Gutes	10	Статист. №
+Statistik - Nr.	11	Вес брутто, кг
+Bruttogew., kg	12	Объем, м3
+Umfang in m3
+Легковой автомобиль ГАУДИ VIN JMKRLD1000000, V 3 000 см3	87032410	5 500 000	
+Самосвал БЕТА-X5 VIN WD00000000000	87041000	95 900 000	
+			
+			
+			
+	Всего	101 400 000	
+Класс
+Klasse		Цифра
+Zifer		Буква
+Buchstabe		ДОПОЛ.
+ADR				
+13	Указания отправителя (таможенная и прочая обработка)
+Anweisungen des Absenders (Zoll-und sonstige amtliche Behandlung)	19	Подлежит оплате:
+Zu zahlen vom:	Отправитель
+Absender	Валюта
+Währung	Получатель
+Empfänger
+ЦЕНТРАЛЬНАЯ АКЦИЗНАЯ ТАМОЖНЯ,	Ставка
+Fracht						
+Пост Донской, код поста 10009050	Скидки
+Ermäßigungen	–						
+Москва, Домодедово, ул. Краснодарская, 17,	Разность
+Zwischensumme						
+	Надбавки
+Zuschläge						
+Объявленная стоимость груза
+Adgabe des Wertes des Gutes	101 400 000 рос. руб.	Дополнительные сборы
+Nebengebühren						
+(при превышении предела ответственности, предусмотренного гл. IV, ст. 23,
+п. 3, указывается только после согласования дополнительной платы к фракту)		Прочие
+Sonstiges	+						
+(wenn der Wert des Gutes den It. Kap. IV, Art. 23, Ab. 3 bestimmten Höchstbetrag
+ubersteigt, so wird er erst nach Vereinbarung des Zuschlages zur Fracht angewiesen)		Итого к оплате
+Zu zahlende Ges.-Su.						
+14	Возврат
+Rückerstattung			
+				
+				
+				
+				
+				
+				
+15	Условия оплаты
+Frachtzahlungsanweisungen		20	Особые согласованные условия
+Besondere Vereinbarungen	
+франко
+Frei	FCA-Домодедово	
+нефранко
+Unfrei		
+21	Составлена в
+Ausgefertigt in	Домодедово	Дата
+am		24	Груз получен
+Gut empfangen	Дата
+Datum
+22		23			am “		”		19
+Прибытие под погрузку
+Ankunft für Einladung		час.
+Uhr		мин.
+Min.	Путевой лист №		“		”		19	Прибытие под разгрузку
+Ankunft für Ausladung		час.
+Uhr		мин.
+Min.
+Убытие
+Abfahrt		час.
+Uhr		мин.
+Min.	Фамилии			Убытие
+Abfahrt		час.
+Uhr		мин.
+Min.
+	водителей			
+		
+Подпись и штамп отправителя
+Unterschrift und Stempel des Absenders	Подпись и штамп перевозчика
+Unterschrift und Stempel des Frachtführers	Подпись и штамп получателя
+Unterschrift und Stempel des Empfängers
+25	Регистрац. номер/Amtl. Kennzeichen
+Тягач/Kfz	Полуприцеп/Anhänger	26		Марка/Typ
+Тягач/Kfz	Полуприцеп/Anhänger	27	Тариф I
+за 1 км	Тарифное расстояние	% за испол. тягача/п/пр.	Поясной 
+коэфф.	Прочие
+доплаты	Сумма
+Н567ВА150	МАК						
+ВК0023 50	ИРОНА						
+							
+							
+28	Тарифное
+расстояние, км	Схема		Тариф
+за 1 т	Надбавки	Скидки	Прочие 
+доплаты	К оплате	Отчисления	
+Тариф II									Оплачено заказчиком	
+										
+									К оплате	
+29									Валюта	Код плательщика
+Тариф III										
+										
+										
