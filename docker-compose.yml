@@ -21,3 +21,16 @@ services:
       - "8084:8084"
     volumes:
       - ./src/embeddings/:/opt/app-root/src/embeddings:rw
+
+  minio:
+    image: minio/minio
+    restart: unless-stopped
+    command: server /data --console-address :8082
+    environment:
+      MINIO_ROOT_USER: minio_user
+      MINIO_ROOT_PASSWORD: minio_password
+    volumes:
+      - ./data:/data
+    ports:
+      - "8082:8082"
+      - "9000:9000"

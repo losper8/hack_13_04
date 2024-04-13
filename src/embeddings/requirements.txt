@@ -11,3 +11,6 @@ langchain-text-splitters
 tiktoken
 clean-text
 unidecode
+python-multipart
+aiobotocore
+aiofiles

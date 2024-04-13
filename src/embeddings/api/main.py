@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import RedirectResponse
 
+from embeddings.api.files import files_router
 from embeddings.api.openai import openai_router
 
 
@@ -29,3 +30,4 @@ async def redirect_from_root() -> RedirectResponse:
 
 
 app.include_router(openai_router, prefix="/api/v1")
+app.include_router(files_router, prefix="/api/v1")
