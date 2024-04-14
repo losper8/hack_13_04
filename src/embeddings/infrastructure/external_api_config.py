@@ -12,4 +12,3 @@ class ExternalApiConfig(BaseSettings):
 
 
 external_api_config = ExternalApiConfig()
-print(external_api_config)

@@ -2,6 +2,7 @@ import chromadb
 from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 from cleantext import clean
 from langchain_text_splitters import TokenTextSplitter
+from tqdm import tqdm
 
 from embeddings.infrastructure.chroma_db_config import chroma_db_config
 from embeddings.infrastructure.external_api_config import external_api_config
@@ -14,15 +15,13 @@ text_splitter = TokenTextSplitter.from_tiktoken_encoder(
 )
 chroma_client = chromadb.HttpClient(host=chroma_db_config.HOST, port=chroma_db_config.PORT)
 openai_embedding_function = OpenAIEmbeddingFunction(api_key=external_api_config.OPENAI_TOKEN, model_name=external_api_config.OPENAI_MODEL_NAME)
-openai_collection_raw = chroma_client.get_or_create_collection(name='openai_collection_raw', embedding_function=openai_embedding_function)
-openai_collection_clean = chroma_client.get_or_create_collection(name='openai_collection_clean', embedding_function=openai_embedding_function)
+openai_collection_raw = chroma_client.get_or_create_collection(name='openai_collection_raw_big', embedding_function=openai_embedding_function)
+openai_collection_clean = chroma_client.get_or_create_collection(name='openai_collection_clean_big', embedding_function=openai_embedding_function)
 
 
 async def domain_save_embeddings(request):
-    new_raw_entries = []
-    new_clean_entries = []
-
-    for item in request:
+    for item in tqdm(request):
+        print(f"Processing item {item.id}")
         full_text_clean = clean(
             item.text,
             fix_unicode=True,
@@ -49,30 +48,29 @@ async def domain_save_embeddings(request):
             replace_with_punct="",
             lang="en",
         )
+        full_text_clean = "".join([c for c in full_text_clean if c.isalpha() or c.isspace()])
 
         raw_splits = text_splitter.split_text(item.text)
         clean_splits = text_splitter.split_text(full_text_clean)
 
-        for idx, raw_chunk in enumerate(raw_splits):
-            new_raw_entries.append((f"{item.id}_{idx}", raw_chunk, {"source": item.source, "part_index": idx}))
+        dataset = item.id.split('/')[0]
+        filename = item.id.split('/')[-1]
 
-        for idx, cleaned_chunk in enumerate(clean_splits):
-            new_clean_entries.append((f"{item.id}_{idx}", cleaned_chunk, {"source": item.source, "part_index": idx}))
+        try:
+            for idx, raw_chunk in enumerate(raw_splits):
+                openai_collection_raw.add(
+                    ids=[f"{item.id.replace('.txt', '_' + str(idx) + '.txt')}"],
+                    documents=[raw_chunk],
+                    metadatas=[{"class": item.source, "part_index": idx, "dataset": dataset, "filename": filename}],
+                )
 
-    raw_ids, raw_documents, raw_metadatas = zip(*new_raw_entries) if new_raw_entries else ([], [], [])
-    clean_ids, clean_documents, clean_metadatas = zip(*new_clean_entries) if new_clean_entries else ([], [], [])
-
-    if new_raw_entries:
-        openai_collection_raw.add(
-            ids=list(raw_ids),
-            documents=list(raw_documents),
-            metadatas=list(raw_metadatas),
-        )
-    if new_clean_entries:
-        openai_collection_clean.add(
-            ids=list(clean_ids),
-            documents=list(clean_documents),
-            metadatas=list(clean_metadatas),
-        )
+            for idx, cleaned_chunk in enumerate(clean_splits):
+                openai_collection_clean.add(
+                    ids=[f"{item.id.replace('.txt', '_' + str(idx) + '.txt')}"],
+                    documents=[cleaned_chunk],
+                    metadatas=[{"class": item.source, "part_index": idx, "dataset": dataset, "filename": filename}],
+                )
+        except Exception as e:
+            print(f"Error processing item {item.id}: {e}")
 
     print("Embeddings saved for both raw and cleaned texts.")
