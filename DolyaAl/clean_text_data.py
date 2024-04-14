@@ -30,13 +30,13 @@ def cleaning(text):
     return text
 
 
-p = Path("raw_dataset/")
+p = Path("new_new_data/")
 for path in p.rglob("*"):
     if path.is_file():
         print(path)
         with open(path, encoding='utf-8') as infile:
             content = infile.read()
             text = cleaning(content)
-            new_path = str(path).replace("raw_dataset", "clean_dataset")
+            new_path = str(path).replace("new_new_data", "clean_new_new_data")
             outfile = open(new_path,'w', encoding='utf-8')
             outfile.write(text)

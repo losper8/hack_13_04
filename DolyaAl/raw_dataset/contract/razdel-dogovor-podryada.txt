@@ -1,0 +1,592 @@
+l lang="ru">
+<head>
+      
+<title>Договор подряда - Образец</title>
+<meta content="Договор подряда образец пример заполнение договор форма типовой" name="keywords">
+<meta content="Договор подряда образец заполнения договора" name="description">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="SHORTCUT ICON" href="https://internet-law.ru/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/template/warmapril/screen01.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/template/warmapril/print001.css" media="print">
+<link rel="stylesheet" type="text/css" href="/template/warmapril/anti-promo.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/template/warmapril/responsive.css">
+<script language="javascript" type="text/javascript" src="/template/warmapril/png00001.js"></script>
+<script language="JavaScript" src="/template/standard/banners.js"></script>
+<script type="text/javascript" src="/template/standard/bookmarks/bookmarks.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Yandex.RTB -->
+	<script>window.yaContextCb=window.yaContextCb||[]</script>
+	<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+    <body>
+
+<IMG style="position:absolute; top:0;" src="/template/warmapril/bodybg-l.gif" alt="юридическая фирма 'Интернет и Право'">
+<TABLE CLASS="maxwh" ID="baseTable">
+    <TR>
+        <TD CLASS="bgcb">
+            <div class="bodybgcb">
+                <div id="logo">
+                    <a href="/">
+                        <IMG src="/template/warmapril/il-logo3.png" alt="Интернет и Право">
+                    </a>
+                </div>
+
+                <!--% основное меню -->
+				
+				<div id="menu">
+                    <h5 class="invsbl">Полное меню</h5>
+                    <br clear="all"/>
+                    <SCRIPT src="/template/menu_css/drop_down.js" type="text/javascript"></SCRIPT>
+<ul id="nav">
+	<li><a href="/" onclick="return false">Актуальное <br class='php-menu'/>законодательство</a>
+		<ul>
+		<li><a href="/law/int/mezhdunarodnoe-zakonodatelstvo-ob-intellektualnoy-sobstvennosti.htm " title="Международное законодательство об интеллектуальной собственности">- Международное зак-во об И.С.</a></li>
+		<li><a href="/law/crime/cis.htm" title="Компьютерные статьи в УК СНГ">- Компьютерные статьи в УК СНГ</a></li>
+		<li><a href="/law/zakonodatelstvo-ob-avtorskom-prave.htm" title="Авторское право РФ">- Авторское право РФ</a></li>
+		<li><a href="/law/zakonodatelstvo-ob-evm-i-bd.htm" title="О программах для ЭВМ и БД">- О программах для ЭВМ и БД</a></li>
+		<li><a href="/law/zakonodatelstvo-informacionnogo-prava.htm" title="Информационное право">- Информационное право</a></li>
+		<li><a href="/law/smi/federalnoe-i-regionalnoe-zakonodatelstvo-o-smi.htm " title="Законодательство о СМИ РФ и субъектов">- Зак-во о СМИ: РФ и субъектов</a></li>
+		<li><a href="/law/kodeksi-rossiyskoy-federacii-rossii-v-deystvuyushih-redakciyah.htm" title="Кодексы Российской Федерации">- Кодексы Российской Федерации</a></li>
+		<li><a href="/law/erus/index.htm" title="ФЦП Электронная Россия, Электронная Москва">- ФЦП Электронная Россия, е-Москва</a></li>
+		<li><a href="/law/projects/index.htm" title="Интересные законопроекты">- Интересные законопроекты</a></li>
+		</ul>
+	</li>
+	<li><a href="/" onclick="return false">Интернет <br class='php-menu'/>и право</a>
+		<ul>
+		<li><a href="/mail/maillist/index.htm" title="Рассылка новостей &laquo;Интернет и Право / Закон есть закон&raquo;">- Рассылка ''Закон есть закон''</a></li>
+		<li><a href="/forum/index.php" title="Форум сайта &laquo;Интернет и Право&raquo; (2002-2012)">- Форум сайта (архив)</a></li>
+		<li><a href="/intlaw/zakonodatelstvo-v-sfere-interneta.htm" title="Законодательство">- Законодательство</a></li>
+		<li><a href="/intlaw/precedenti-po-delam-ob-intellektualnoy-sobstvennosti.htm" title="Судебная практика (интеллектуальная собственность)">- Судебная практика (необычная)</a></li>
+		<li><a href="/business/precedents.htm" title="Авторская судебная практика по интеллектуальной собственности">- Судебная практика (авторская)</a></li>
+		<li><a href="/intlaw/udrp/index.htm" title="Процедура UDRP и решения ВОИС (WIPO)">- Процедура UDRP и и решения WIPO</a></li>
+		<li><a href="/book/anton-sergo-knigi.htm" title="Книги серии &laquo;Интернет и Право&raquo;">- Книги серии ''Интернет и Право''</a></li>
+		<li><a href="/intlaw/books/knigi-v-otkritom-dostupe-po-tematike-internet-i-pravo.htm " title="Книги в открытом доступе по тематике &laquo;Интернет и Право&raquo;">- Книги в открытом доступе</a></li>
+		<li><a href="/intlaw/uchebniy-kurs-internet-i-pravo-kommunikacionnoe-pravo-2.htm" title="Авторский учебный курс &laquo;Интернет и Право&raquo;">- Учебный курс ''Интернет и Право''</a></li>
+		<li><a href="/intlaw/uchebniy-kurs-domennie-spori-ispolzovanie-sredstv-individualizacii-i-rezultatov-intellektualnoy-deyatelnosti-v-domennih-imenah.htm" title="Авторский учебный курс &laquo;Доменные споры&raquo;">- Учебный курс ''Доменные споры''</a></li>
+		<li><a href="/intlaw/uchebniy-kurs-internet-i-pravo-kommunikacionnoe-pravo.htm" title="Литература по теме: Интернет и Право">- Литература по ''Интернет и Право''</a></li>
+		<li><a href="/intlaw/spisok-literaturi-po-intellektualnoy-sobstvennosti.htm" title="Литература по интеллектуальной собственности">- Литература по интел. собственности</a></li>
+		<li><a href="/intlaw/articles/index.htm" title="Околонаучный уголок (публикации посетителей сайта)">- Научный уголок (работы гостей)</a></li>
+		<li><a href="/articles/avtorskie-publikacii-agsergo.htm" title="Авторские публикации по компьютерной тематике">- Авторские публикации</a></li>
+		</ul>
+	</li>
+	<li><a href="/" id="cur_punkt_menu" onclick="return false">Информационные <br class='php-menu'/>материалы</a>
+		<ul>
+		<li><a href="/law/ip/spravochnaya-informaciya-po-intellektualnoy-sobstvennosti.htm" title="Интеллектуальная собственность">- Интеллектуальная собственность</a></li>
+		<li><a href="/info/unesco/index.htm" title="Избранные труды Кафедры ЮНЕСКО">- Избранные труды Кафедры ЮНЕСКО</a></li>
+		<li><a href="/gosts/index.php" title="Государственные стандарты Российской Федерации">- Государственные стандарты (ГОСТ)</a></li>
+		<li><a href="/stroyka/index.php" title="Строительные нормы и правила Российской Федерации(СНиП)">- Строительные нормы и правила (СНиП)</a></li>
+		<li><a href="/docs/index.htm" title="Библиотека образцов юридических документов" id="cur_punkt_menu">- Библиотека образцов документов</a></li>
+		<li><a href="/court/index.htm" title="Материалы судебной палаты по информационным спорам">- Материалы судебной палаты</a></li>
+		<li><a href="/info/news/katalog-saytov-federalnih-organov-vlasti-rossiyskoy-federacii.htm" title="Сайты федеральных органов власти Российской Федерации">- Сайты федеральных органов власти</a></li>
+		<li><a href="/info/humour/index.htm" title="Милицейский юмор, давайте улыбнемся">- Милицейский юмор :)</a></li>
+		</ul>
+	</li>
+	<li><a href="/" onclick="return false">ЮРИДИЧЕСКИЕ <br class='php-menu'/>УСЛУГИ</a>
+		<ul>
+		<li><a href="/business/index.htm" title="Обзор основных и сопутствующих услуг">- Перечень юридических услуг</a></li>
+		<li><a href="/business/catalog.htm" title="Карта юридических услуг - краткая классификация правовых проблем и юр.услуг">- Карта юридических услуг</a></li>
+		<li><a href="/business/consulting.htm" title="Консультирование по вопросам: доменные споры (RU, РФ, SU и др.), авторское право, личные фото, защита чести, достоинства, деловой репутации, права СМИ, провайдеров, хостеров, информационных посредников">- Юридическая консультация</a></li>
+		<li><a href="/business/courts.htm" title="Подготовка документов и/или участие в судебном разбирательстве: доменные споры (RU, РФ, SU и др.), авторское право, фото, права СМИ, провайдеров, хостеров, информационных посредников">- Доменные споры (RU), авторское право</a></li>
+		<li><a href="/business/udrp.htm" title="Доменные споры по зонам COM, NET, ORG, BIZ, INFO и др. по правилам UDRP в Арбитражном центре ВОИС (WIPO, Женева)">- Международный суд по доменам (COM)</a></li>
+		<li><a href="/business/marketplace.htm" title="Защита прав правообладателя товарного знака, фирменного наименования, обладателя авторских прав на маркетплейсах (Wildberries, Ozon, Авито, Яндекс.Маркет, СберМегаМаркет)">- Защита прав на маркетплейсе (WB, Ozon)</a></li>
+		<li><a href="/business/account.htm" title="Судебная защита прав правообладателя товарного знака на аккаунт в социальной сети (Одноклассники - odnoklassniki.ru, ВКонтакте - vk.com, Facebook, Youtube и др.), а также обладателя авторских прав">- Защита прав в соцсетях (Vk, Ok, FB)</a></li>
+		<li><a href="/business/buy.htm" title="Правовое сопровождение купли-продажи доменного имени (RU, РФ, SU и др.), сайта, программного обеспечения">- Купля-продажа домена, сайта, ПО</a></li>
+		<li><a href="/business/court.htm" title="Досудебная стадия урегулирования конфликта: доменные споры (RU, РФ, SU и др.), авторское право, личные фото, права СМИ, провайдеров, хостеров, информационных посредников">- Досудебное урегулирование конфликта</a></li>
+		<li><a href="/business/reputation.htm" title="Судебная защита чести, достоинства и деловой репутации, взыскание морального вреда">- Защита чести и деловой репутации</a></li>
+		<li><a href="/business/roscomnadzor.htm" title="Отмена блокировки сайта/домена (Роскомнадзор, прокуратура, суд)">- Отмена блокировки сайта/домена РКН</a></li>
+		<li><a href="/business/fas.htm" title="Ведение в Федеральной антимонопольной службе (ФАС России) дел о нарушении законодательства о рекламе, недобросовестной конкуренции, при использовании охраняемых объектов интеллектуальной собственности: товарные знаки, авторское право и пр.">- ФАС: товарные знаки, авторское право</a></li>
+		<li><a href="/business/rospatent.htm" title="Официальная регистрация Интернет-сайтов, компьютерных программ, мобильных приложений, баз данных, а также договоров о передаче прав на них в Федеральной службе по интеллектуальной собственности (РОСПАТЕНТ)">- Регистрация ПО/сайта (Роспатент)</a></li>
+		<li><a href="/business/audit.htm" title="Юридическая проверка доменного имени (на сходство с зарегистрированными и/или охраняемыми в России товарными знаками, торговыми марками, брендами, фирменными наименованиями)">- Юридическая проверка домена</a></li>
+		<li><a href="/business/notarius.htm" title="Нотариальное заверение сайтов">- Нотариальное заверение сайтов</a></li>
+		<li><a href="/business/pay/index.htm" title="Способы и формы оплаты услуг юрфирмы ''Интернет и Право''">- Способы и формы оплаты услуг</a></li>
+		<li><a href="/business/articles.htm" title="Юрфирма ''Интернет и Право'' в прессе">- Мы в СМИ</a></li>
+		<li><a href="/business/about.htm" title="Информация о компании ''Интернет и Право''">- О компании, клиенты</a></li>
+		<li><a href="/business/precedents.htm" title="Наиболее интересные дела в практике компании">- Наши дела и победы</a></li>
+		<li><a href="/business/contact.htm" title="Контакты и реквизиты юрфирмы ''Интернет и Право''">- Контакты и реквизиты</a></li>
+		</ul>
+	</li>
+	<li><a href="/" onclick="return false">Информация <br class='php-menu'/>о сайте</a>
+		<ul>
+		<li><a href="/info/site/site.htm" title="История сайта">- История сайта</a></li>
+		<li><a href="/map.htm" title="Карта сайта">- Карта сайта</a></li>
+		<li><a href="/search/index.htm" title="Поиск по сайту">- Поиск по сайту</a></li>
+		<li><a href="/info/site/rek.htm" title="Реклама на сайте">- Реклама на сайте</a></li>
+		<li><a href="/resume.htm" title="Коротко об авторе (резюме)">- Коротко об авторе (резюме)</a></li>
+		<li><a href="/articles/avtorskie-publikacii-agsergo.htm" title="Авторские публикации по компьютерной тематике">- Авторские публикации</a></li>
+		</ul>
+	</li>
+	<li class="buttons">
+	<span>
+		<a href="/"><img src="/template/menu_css/home.gif" /></a>
+		<script>document.write('<a href="mailto:?subject='+window.location.href+'&body='+window.location.href+'"><img src="/template/menu_css/send.gif" alt="Отправка ссылки на эту страницу" /></a>');</script>
+		<a href="/forum/index.htm"><img src="/template/menu_css/forum.gif" alt="Форум сайта 'Интернет и Право'"/></a>
+		<a href="/search/index.htm"><img src="/template/menu_css/search.gif" alt="Поиск по сайту 'Интернет и Право'"/></a>
+		<a href="/mail/index.htm"><img src="/template/menu_css/email.gif" alt="Отправить сообщение"/></a>
+		<a href="/map.htm"><img src="/template/menu_css/map.gif" alt="Карта сайта 'Интернет и Право'"></a>
+		<a href="/business/index-e.htm"><img src="/template/menu_css/english.gif" alt="English: The Russian legal firm 'Internet & Law'"></a>
+	</span>
+	</li>
+</ul>
+
+                </div>
+
+<!--noindex-->
+<SCRIPT LANGUAGE="JavaScript">BannerUp();</SCRIPT>
+<!--/noindex-->
+<div class="adaptive-670px mobile-logo">
+	<a href="/">
+		<img src="/template/warmapril/il-logo3.png" alt="Интернет и Право">
+	</a>
+</div>
+                <!--% двухколоночная таблица -->
+                <table class="maxwh cb table2col">
+                    <tr valign="top">
+                        <td class="lcol  noprint">
+                            <!--% основные ссылки -->
+                            <h5 class="invsbl">Основные ссылки</h5>
+                            <div id="hotnav">
+								<div class="wrap1">
+									<div class="wrap2">
+<!-- тут было левое меню -->
+
+<!--noindex-->
+
+<br><br>
+<div align="center">
+<!-- переводчик Google -->
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ru', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- переводчик Google -->
+</div>
+
+<br><br>
+<div align="center">
+<P align="center" style="font-size:8pt;">На правах рекламы:</P>
+<SCRIPT LANGUAGE="JavaScript">Banner100x100_1();</SCRIPT>
+<!-- Google - Вертикальный адаптивный -->
+<!-- Google - Вертикальный end -->
+<!-- Google - Вертикальный адаптивный -->
+<!-- Google - Вертикальный end -->
+
+<!-- Yandex.RTB R-A-6501263-1 -->
+<div id="yandex_rtb_R-A-6501263-1"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-1",
+		"renderTo": "yandex_rtb_R-A-6501263-1"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-2 -->
+<div id="yandex_rtb_R-A-6501263-2"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-2",
+		"renderTo": "yandex_rtb_R-A-6501263-2"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-9 -->
+<div id="yandex_rtb_R-A-6501263-9"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-9",
+		"renderTo": "yandex_rtb_R-A-6501263-9"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-10 -->
+<div id="yandex_rtb_R-A-6501263-10"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-10",
+		"renderTo": "yandex_rtb_R-A-6501263-10"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-11 -->
+<div id="yandex_rtb_R-A-6501263-11"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-11",
+		"renderTo": "yandex_rtb_R-A-6501263-11"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263- end -->
+
+<!-- SаPE RтB JS -->
+<script
+    async="async"
+    src="https://cdn-rtb.sape.ru/rtb-b/js/806/2/2806.js"
+    type="text/javascript">
+</script>
+<!-- SаPE RтB END -->
+<!-- SаPE RтB DIV ADAPTIVE -->
+<div id="SRTB_621024"></div>
+<!-- SаPE RтB END -->
+
+<!--/noindex-->
+
+<br><br>
+
+                            <!--% / -->
+									</div>
+								</div>
+							</div>
+							<img src="/template/warmapril/kompas.gif" style="float:left;margin:-60px 0 0 60px;">
+						<p class="text-center my15px"><!--noindex-->
+<a href="/template/go.php?url=https://www.yandex.ru/cy%3Fbase%3D0%26host%3Dwww.internet-law.ru"><img src="https://www.yandex.ru/cycounter?www.internet-law.ru" width=88 height=31 alt="Яндекс цитирования" border=0 align="center"></a>
+<BR /><BR />
+
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='/template/go.php?url=https://www.liveinternet.ru/click' " +
+"target=_blank><img src='https://counter.yadro.ru/hit?t27.6;r" +
+escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+";" + Math.random() +
+"' alt='' title='LiveInternet: показано количество просмотров и посетителей' " +
+"border=0 width=88 height=120><\/a>")//--></script><!--/LiveInternet-->
+
+<BR /><BR />
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)
+
+[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(36145, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36145" style="position:absolute; 
+left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Top100 Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 744399,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=744399" alt="Топ-100" />
+</noscript>
+<!-- END Top100 Counter -->
+
+	<br>
+	<br>
+<!--/noindex-->
+	<p align="center" style="font-size:6pt;">Произвольная ссылка:<br>
+	<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="https://cdn-rtb.sape.ru/teasers/js/806/2/2806.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END --><!--32358070208--><div id='QK2u_32358070208'></div>
+	</p>
+
+<BR /><BR /></p>
+						</td>
+                        <td class="rcol">
+
+                            <div class="contentZone">
+
+<!-- Yandex.RTB R-A-6501263-3 -->
+<div id="yandex_rtb_R-A-6501263-3"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-3",
+		"renderTo": "yandex_rtb_R-A-6501263-3"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-3 - end --> 
+<div>
+&nbsp;››&nbsp; <a href="index.htm">Договоры</a>
+&nbsp;››&nbsp; <a href="razdel-dogovor-podryada.htm">Договор подряда</a>
+</div> 
+<h1>Договор подряда</h1>
+	<h2 align="center">ДОГОВОР ПОДРЯДА</h2>
+<table width="100%">
+г. _______________<td align="right">&quot;___&quot;_______200__г.
+<p style="clear:both">__________________________________________________________ (наименование 
+  предприятия или  Ф.И.О. физического  лица),  действующего  на  основании 
+  _____________ (Устава, патента и пр.), именуемого в дальнейшем Заказчик, 
+  и ____________________________________ (Ф.И.О.), действующего __________ 
+  (от своего  имени и  т.п.), именуемого в дальнейшем Подрядчик, заключили<br />
+настоящий договор о нижеследующем.</p>
+<p><b>1. Предмет договора</b><br />
+  1.1. Подрядчик  обязуется выполнить  на свой  риск  следующие  виды 
+  работ: _________________________________________________________________<br />
+  1.2. Для  выполнения указанных работ Заказчик обязуется представить 
+  в  срок   до  &quot;___&quot;_______20___г.   необходимую   проектную   и   сметную
+  документацию,   технические   условия,   предоставить   в   распоряжение     
+  Подрядчика имеющееся оборудование, инструменты и материалы.<br />
+  1.3.  _____________________________________________________________ 
+  (указать виды  работ) Подрядчик  выполняет из своих материалов, на своем 
+  оборудовании  и   своими   инструментами.   В   этом   случае   Заказчик 
+  дополнительно оплачивает  по договорным  ценам  стоимость  материалов  и 
+  амортизационные  платежи   за   износ   оборудования   по   существующим 
+  нормативам.<br />
+  1.4. Начало работы устанавливается с &quot;___&quot;________20___г., окончание 
+  работы и  сдача ее  Заказчику &quot;____&quot;________20___г.  с правом (без права) 
+  досрочного выполнения.<br />
+  1.5. Работа  считается выполненной  после подписания  акта приемки-сдачи Заказчиком или уполномоченным им представителем.<br />
+  1.6. Подрядчик  несет ответственность  за вверенное ему имущество и 
+  за любое действие, повлекшее за собой утрату или порчу имущества.<br />
+  1.7. Подрядчик,  выполняющий  работу  из  своего  материала,  несет 
+  ответственность в случае недоброкачественности материала.<br />
+  1.8. Риск  случайной гибели  или случайной  порчи  материала  несет 
+  сторона, предоставившая материал.</p>
+<p><strong>2. Условия выполнения работы</strong><br />
+  2.1.  Если   в  процессе   выполнения  работы   Подрядчик  допустил 
+  отступления от  условий договора,  ухудшившие  качество  работы,  то  по 
+  требованию Заказчика  он обязан  безвозмездно исправить  все выявленные 
+  недостатки  в  установленный  по  согласованию  сторон  срок.  Отказ  от 
+  исправления  выявленных   недостатков  влечет  для  Подрядчика  штрафные 
+  санкции.  Заказчику   предоставляется  в   этом  случае  право  поручить 
+  исправление   недостатков   третьим   лицам   (организациям)   за   счет 
+  Подрядчика.<br />
+  2.2. При  наличии  существенных  недостатков  на  одном  из  этапов 
+  работы, приводящих к невозможности выполнения всей работы в соответствии 
+  с  требованиями   технической  или   иной  документации,  представленной 
+  Заказчиком,  Заказчик   расторгает  договор   без   оплаты   выполненной 
+  Подрядчиком работ.<br />
+  2.3. О  выполнении отдельных  этапов работ  Подрядчик предоставляет 
+  Заказчику отчеты  в согласованные сторонами сроки, а также промежуточные 
+  результаты  работы   для  контроля  за  соблюдением  сроков  и  качества 
+  выполненных работ.<br />
+  2.4. Подрядчик  самостоятельно организует  всю работу по исполнению 
+  настоящего  договора,   определяет   непосредственных   исполнителей   и 
+  распределяет обязанности между ними.</p>
+<p><strong>3. Сумма вознаграждения, порядок расчетов, штрафные санкции</strong><br />
+  3.1.  По   настоящему  договору   Заказчик  выплачивает  Подрядчику 
+  вознаграждение   в   размере   ________________   руб.,   облагаемых   в 
+  установленном законодательством порядке налогами.<br />
+  3.2. За  нарушение согласованных  сроков предоставления технической 
+  документации, материалов,  начала и  окончания работы и ее промежуточных 
+  этапов виновная сторона выплачивает штраф в размере ____________________ 
+  руб. за каждый день нарушения.<br />
+  3.3. Другие условия _______________________________________________<br />
+  3.4. Сумма вознаграждения оплачивается полностью после ____________ 
+  дней после подписания акта сдачи-приемки работ.<br />
+  3.5. К договору прилагается:<br />
+  1._________________________________________________________________<br />
+  2._________________________________________________________________<br />
+  3._________________________________________________________________</p>
+<p> Адреса и реквизиты сторон:<br />
+  Подрядчик:<br />
+  Почтовый адрес и индекс ________________________________________________<br />
+  Телеграфный ____________________________________________________________<br />
+  Расчетный  счет № _______ в ______________ отделении ___________________ 
+  банка.<br />
+  Подписи сторон:<br />
+  Подрядчик                          подпись</p>
+<p>Заказчик                           подпись</p>
+<p> М.П.</p>
+<p>Примечание.  Если   одной  из   сторон  или  обеими  сторонами  являются физические лица,  то наряду  с почтовым  адресом и  индексом обязательно 
+указывается серия и номер паспорта, когда и кем выдан.</p><br><br>
+<ul class="docsList">
+</ul>
+<p align="center"><b><a href=index.htm>Главная страница библиотеки</a></b></p>
+                            </div>
+
+<!-- Yandex.RTB R-A-6501263-8 -->
+<div id="yandex_rtb_R-A-6501263-8"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-8",
+		"renderTo": "yandex_rtb_R-A-6501263-8"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-8 - end -->
+
+<p>&nbsp;</p>
+<P><i>Источник информации: <a href="https://internet-law.ru/docs/razdel-dogovor-podryada.htm">https://internet-law.ru/docs/razdel-dogovor-podryada.htm</A></i></P>
+<p>&nbsp;</p>
+<div class="noprint">
+<P>На эту страницу сайта можно сделать ссылку: <span id="bookmarks"></span></P>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+</div>
+
+<!--noindex-->
+<P align="center" style="font-size:8pt;">На правах рекламы:</P>
+<div align="center">
+<!-- Google - Горизонтальный адаптивный -->
+<!-- Google - Горизонтальный end -->
+<!-- Google - Горизонтальный адаптивный -->
+<!-- Google - Горизонтальный end -->
+
+<!-- Yandex.RTB R-A-6501263-12 -->
+<div id="yandex_rtb_R-A-6501263-12"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-12",
+		"renderTo": "yandex_rtb_R-A-6501263-12"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-12 - end -->
+
+<div align="center" class="hidden-adaptive-670px">
+<!-- SаPE RтB JS -->
+<script async="async" src="https://cdn-rtb.sape.ru/rtb-b/js/806/2/2806.js" type="text/javascript"></script>
+<!-- SаPE RтB END --><br><br>
+<!-- SаPE RтB DIV 600x340 -->
+<div id="SRTB_427393"></div>
+<!-- SаPE RтB END --><br><br>
+<!-- SаPE RтB DIV 728x90 -->
+<div id="SRTB_607913"></div>
+<!-- SаPE RтB END --><br><br>
+<!-- SаPE RтB DIV 728x90 -->
+<div id="SRTB_617346"></div>
+<!-- SаPE RтB END -->
+</div>
+<!--/noindex-->
+</div>
+
+                        </td>
+                    </tr>
+                </table>
+
+                <table class="maxwh cb table3col copyright">
+                    <tr valign="top">
+                        <td class="lcol">
+							<p class="copyright small">&copy; Антон Серго, 1998-2024.
+								<br><a href="/copyright.htm">Правовая информация</a>, 18+
+							</p>
+                        </td>
+                        <td>
+                            <!--noindex--><p class="madeby small">Разработка сайта<br><A href="/template/go.php?url=http://artstyle.ru">ArtStyle Group</a></p><!--/noindex-->
+                        </td>
+                        <td style="width:520px;">
+						<!--noindex-->
+						<div style="float:left;margin-left:10px;">
+						<SCRIPT LANGUAGE="JavaScript">Banner468x60_1();</SCRIPT>
+						<!--/noindex-->
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="fintifl-wrap">
+                <div class="fintifl-item"></div>
+                <div class="fintifl-item"></div>
+            </div>
+            <div class="fintifl-center"></div>			
+        </td>
+	</tr>
+</table>
+
+<!-- иконка мобильного меню -->
+<div class="menu-hamburger-ico">
+    <div class="navbar-toggle navicon">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </div>
+</div>
+
+	<script type="text/javascript" src="/template/warmapril/cookie.js?v=0.1" charset="utf-8" defer></script>
+
+<!-- Yandex.RTB R-A-6501263-4 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-4",
+		"type": "floorAd",
+		"platform": "desktop"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-4 - end -->
+<!-- Yandex.RTB R-A-6501263-5 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-5",
+		"type": "floorAd",
+		"platform": "touch"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-5 - end -->
+<!-- Yandex.RTB R-A-6501263-6 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-6",
+		"type": "fullscreen",
+		"platform": "desktop"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-5 - end -->
+<!-- Yandex.RTB R-A-6501263-6 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-6",
+		"type": "fullscreen",
+		"platform": "desktop"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-6 - end -->
+<!-- Yandex.RTB R-A-6501263-7 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-6501263-7",
+		"type": "fullscreen",
+		"platform": "touch"
+	})
+})
+</script>
+<!-- Yandex.RTB R-A-6501263-7 - end -->
+
+	</body>
+
+</html>
