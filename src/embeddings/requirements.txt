@@ -14,3 +14,8 @@ unidecode
 python-multipart
 aiobotocore
 aiofiles
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
